@@ -1,7 +1,7 @@
 # naver_login_analyze
 Report
 HTML 태그분석
-<img src=
+<img src=image.png></img>
 ```HTML
 <form id="frmNIDLogin" name="frmNIDLogin" target="_top" AUTOCOMPLETE="off" action="https://nid.naver.com/nidlogin.login" method="POST">
 하위 input 태그:
